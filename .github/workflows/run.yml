@@ -1,4 +1,4 @@
-name: Generate routing rules for Surge
+name: Generate routing rules for QuantumultX
 on:
   workflow_dispatch:
   schedule:
